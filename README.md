@@ -22,4 +22,4 @@
 
 ## Video Demo
 
-[Watch the video demo](videos/Glowing-website.mp4)
+[Watch the video demo](video/Glowing-website.mp4)
