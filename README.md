@@ -18,8 +18,8 @@
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactive elements and functionality.
 ## Home Page
-![Homepage](images/homepage.jpg)
+![Homepage](images/homepage.png)
 
 ## Video Demo
 
-[Watch the video demo](video/Glowing-website.mp4)
+[Watch the video demo](video/Glowing-demo.mp4)
